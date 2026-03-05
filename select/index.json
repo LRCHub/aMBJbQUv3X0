@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Overall（feat. R-指定、般若）",
+  "base_artist": "KEN THE 390",
+  "createdAt": "2026-03-05T10:17:24.776966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Overall (feat. R-指定 & 般若)",
+      "artist": "KEN THE 390",
+      "has_synced": true,
+      "path": "select/01_Overall_(feat._R-指定_&_般若)_KEN_THE_390.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Overall (feat. R-指定 & 般若)",
+      "artist": "KEN THE 390",
+      "has_synced": false,
+      "path": "select/pl_01_Overall_(feat._R-指定_&_般若)_KEN_THE_390.txt"
+    }
+  ]
+}
